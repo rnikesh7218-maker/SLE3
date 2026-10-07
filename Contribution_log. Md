@@ -1,0 +1,42 @@
+AI Contribution Log
+
+Project
+
+Tic-Tac-Toe Search Agent: Minimax vs Alpha-Beta Pruning
+
+Course: 02AML204 – Introduction to Artificial Intelligence
+SLE: SLE-3
+PRN: 25UAM099
+Name: Nikesh Rathod
+Division: B
+
+AI Tool Used
+
+Claude (Anthropic)
+
+Contribution of AI
+
+AI was used during the development of this project for:
+
+1. Helping write the Minimax search code.
+2. Helping write the Alpha-Beta Pruning code.
+3. Helping with profiling and performance measurement.
+4. Explaining the C4 model.
+5. Helping prepare the Context, Container and Component diagrams.
+6. Helping draft the SLE-3 report.
+7. Helping prepare the GitHub README.
+
+My Contribution
+
+I contributed to the project by:
+
+1. Choosing Tic-Tac-Toe Minimax vs Alpha-Beta Pruning as the project topic.
+2. Understanding the working of both algorithms.
+3. Checking that the diagrams match the actual program.
+4. Understanding the functions and system components.
+5. Making design decisions for the project.
+6. Preparing to explain the project in my own words during the oral/presentation.
+
+Summary
+
+AI was used as a supporting tool for coding, explanation and documentation. I reviewed the generated content and focused on understanding the project and its architecture.
